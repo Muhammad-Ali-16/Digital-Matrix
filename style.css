@@ -51,16 +51,6 @@ a {
     word-spacing: 0.2rem;
 }
 
-/*==============preloader===============*/
-
-#preloader{
-height: 100%;
-width: 100%;
-background: #000 url(images/preloader.gif) no-repeat center center;
-position: fixed;
-z-index: 999;
-}
-
 .navbar{
     position:sticky;
     top: 0;
